@@ -10,8 +10,4 @@
 
 1. https://git-scm.com/doc
 
-2. https://www.mercurial-scm.org/
-
-3. https://subversion.apache.org/
-
-4. https://en.wikipedia.org/wiki/Version_control
+2. https://en.wikipedia.org/wiki/Version_control
